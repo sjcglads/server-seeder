@@ -2,11 +2,11 @@
 
 -- Current version information
 
-major_version = 0
-minor_version = 0
-build_number = 1
+local major_version = 0
+local minor_version = 0
+local build_number = 1
 
-currentVersion = major_version .. '.' .. minor_version .. '.' .. build_number
+local currentVersion = major_version .. '.' .. minor_version .. '.' .. build_number
 
 -- use dofile function to launch the mod from lua files in the net folder
 -- something like this: 
