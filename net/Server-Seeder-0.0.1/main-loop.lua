@@ -1,0 +1,1 @@
+-- main-loop.lua will contain the main tracking loop that will run and check users' time in game and manage points distribution
